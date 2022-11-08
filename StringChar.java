@@ -1,3 +1,5 @@
+// Print each Character in a Word
+
 class StringChar{
 	static void str(String s){
 		for(int i=0;i<s.length();i++)
