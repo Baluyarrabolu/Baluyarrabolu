@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 class SortedString {
 
-	public static void main(String[] raj){
+	public static void main(String[] args){
 
 	String[] a= {"Balu","Shiva","Krishna","Sai","Giri"};
 	String temp;
