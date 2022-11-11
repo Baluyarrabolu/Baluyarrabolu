@@ -1,4 +1,4 @@
-// Bank related methods
+// Bank Project
 
 class Bank{
 	int getInterest(){return 0;}	
