@@ -1,3 +1,5 @@
+//Inheritance Example
+
 class A { // Parent Class
 	double bonus=5000;	
 	}
