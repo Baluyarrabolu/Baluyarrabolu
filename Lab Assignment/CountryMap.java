@@ -8,10 +8,6 @@ import java.util.Set;
 
 public class CountryMap {
 	private HashMap<String,String> M1=new HashMap<>();
-	
-	/*public CountryMap() {
-		M1=new HashMap<String,String>();
-	}*/
 		
 	public HashMap<String,String> storeCountryCapital(String CountryName, String Capital){
 		M1.put(CountryName, Capital);
